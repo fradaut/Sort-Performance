@@ -1,0 +1,365 @@
+10筆隨機資料: 產生時間 0.000s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string   0.000s
+     array  insertion Sort   integer   0.000s
+     array  insertion Sort      long   0.000s
+     array  insertion Sort     float   0.000s
+     array  insertion Sort    double   0.000s
+     array  selection Sort    string   0.000s
+     array  selection Sort   integer   0.000s
+     array  selection Sort      long   0.000s
+     array  selection Sort     float   0.000s
+     array  selection Sort    double   0.000s
+     array     bubble Sort    string   0.000s
+     array     bubble Sort   integer   0.000s
+     array     bubble Sort      long   0.000s
+     array     bubble Sort     float   0.000s
+     array     bubble Sort    double   0.000s
+     array      merge Sort    string   0.000s
+     array      merge Sort   integer   0.000s
+     array      merge Sort      long   0.000s
+     array      merge Sort     float   0.000s
+     array      merge Sort    double   0.000s
+    vector  insertion Sort    string   0.000s
+    vector  insertion Sort   integer   0.000s
+    vector  insertion Sort      long   0.000s
+    vector  insertion Sort     float   0.000s
+    vector  insertion Sort    double   0.000s
+    vector  selection Sort    string   0.000s
+    vector  selection Sort   integer   0.000s
+    vector  selection Sort      long   0.000s
+    vector  selection Sort     float   0.000s
+    vector  selection Sort    double   0.000s
+    vector     bubble Sort    string   0.000s
+    vector     bubble Sort   integer   0.000s
+    vector     bubble Sort      long   0.000s
+    vector     bubble Sort     float   0.000s
+    vector     bubble Sort    double   0.000s
+    vector      merge Sort    string   0.000s
+    vector      merge Sort   integer   0.001s
+    vector      merge Sort      long   0.000s
+    vector      merge Sort     float   0.000s
+    vector      merge Sort    double   0.000s
+std::array  insertion Sort    string   0.000s
+std::array  insertion Sort   integer   0.000s
+std::array  insertion Sort      long   0.000s
+std::array  insertion Sort     float   0.000s
+std::array  insertion Sort    double   0.000s
+std::array  selection Sort    string   0.000s
+std::array  selection Sort   integer   0.000s
+std::array  selection Sort      long   0.000s
+std::array  selection Sort     float   0.000s
+std::array  selection Sort    double   0.000s
+std::array     bubble Sort    string   0.000s
+std::array     bubble Sort   integer   0.000s
+std::array     bubble Sort      long   0.000s
+std::array     bubble Sort     float   0.000s
+std::array     bubble Sort    double   0.000s
+std::array      merge Sort    string   0.000s
+std::array      merge Sort   integer   0.000s
+std::array      merge Sort      long   0.000s
+std::array      merge Sort     float   0.000s
+std::array      merge Sort    double   0.000s
+
+20筆隨機資料: 產生時間 0.000s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string   0.000s
+     array  insertion Sort   integer   0.000s
+     array  insertion Sort      long   0.000s
+     array  insertion Sort     float   0.000s
+     array  insertion Sort    double   0.000s
+     array  selection Sort    string   0.000s
+     array  selection Sort   integer   0.000s
+     array  selection Sort      long   0.000s
+     array  selection Sort     float   0.000s
+     array  selection Sort    double   0.000s
+     array     bubble Sort    string   0.000s
+     array     bubble Sort   integer   0.000s
+     array     bubble Sort      long   0.000s
+     array     bubble Sort     float   0.000s
+     array     bubble Sort    double   0.000s
+     array      merge Sort    string   0.000s
+     array      merge Sort   integer   0.000s
+     array      merge Sort      long   0.000s
+     array      merge Sort     float   0.000s
+     array      merge Sort    double   0.000s
+    vector  insertion Sort    string   0.000s
+    vector  insertion Sort   integer   0.000s
+    vector  insertion Sort      long   0.000s
+    vector  insertion Sort     float   0.000s
+    vector  insertion Sort    double   0.000s
+    vector  selection Sort    string   0.000s
+    vector  selection Sort   integer   0.000s
+    vector  selection Sort      long   0.000s
+    vector  selection Sort     float   0.000s
+    vector  selection Sort    double   0.000s
+    vector     bubble Sort    string   0.000s
+    vector     bubble Sort   integer   0.000s
+    vector     bubble Sort      long   0.000s
+    vector     bubble Sort     float   0.000s
+    vector     bubble Sort    double   0.000s
+    vector      merge Sort    string   0.001s
+    vector      merge Sort   integer   0.000s
+    vector      merge Sort      long   0.000s
+    vector      merge Sort     float   0.000s
+    vector      merge Sort    double   0.000s
+std::array  insertion Sort    string   0.000s
+std::array  insertion Sort   integer   0.000s
+std::array  insertion Sort      long   0.000s
+std::array  insertion Sort     float   0.000s
+std::array  insertion Sort    double   0.000s
+std::array  selection Sort    string   0.000s
+std::array  selection Sort   integer   0.000s
+std::array  selection Sort      long   0.000s
+std::array  selection Sort     float   0.000s
+std::array  selection Sort    double   0.000s
+std::array     bubble Sort    string   0.000s
+std::array     bubble Sort   integer   0.000s
+std::array     bubble Sort      long   0.000s
+std::array     bubble Sort     float   0.000s
+std::array     bubble Sort    double   0.000s
+std::array      merge Sort    string   0.000s
+std::array      merge Sort   integer   0.000s
+std::array      merge Sort      long   0.000s
+std::array      merge Sort     float   0.000s
+std::array      merge Sort    double   0.000s
+
+30筆隨機資料: 產生時間 0.000s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string   0.000s
+     array  insertion Sort   integer   0.000s
+     array  insertion Sort      long   0.000s
+     array  insertion Sort     float   0.000s
+     array  insertion Sort    double   0.000s
+     array  selection Sort    string   0.000s
+     array  selection Sort   integer   0.000s
+     array  selection Sort      long   0.000s
+     array  selection Sort     float   0.000s
+     array  selection Sort    double   0.000s
+     array     bubble Sort    string   0.000s
+     array     bubble Sort   integer   0.000s
+     array     bubble Sort      long   0.000s
+     array     bubble Sort     float   0.000s
+     array     bubble Sort    double   0.000s
+     array      merge Sort    string   0.000s
+     array      merge Sort   integer   0.000s
+     array      merge Sort      long   0.000s
+     array      merge Sort     float   0.000s
+     array      merge Sort    double   0.000s
+    vector  insertion Sort    string   0.000s
+    vector  insertion Sort   integer   0.000s
+    vector  insertion Sort      long   0.000s
+    vector  insertion Sort     float   0.000s
+    vector  insertion Sort    double   0.000s
+    vector  selection Sort    string   0.000s
+    vector  selection Sort   integer   0.000s
+    vector  selection Sort      long   0.000s
+    vector  selection Sort     float   0.000s
+    vector  selection Sort    double   0.000s
+    vector     bubble Sort    string   0.000s
+    vector     bubble Sort   integer   0.000s
+    vector     bubble Sort      long   0.000s
+    vector     bubble Sort     float   0.000s
+    vector     bubble Sort    double   0.000s
+    vector      merge Sort    string   0.000s
+    vector      merge Sort   integer   0.001s
+    vector      merge Sort      long   0.000s
+    vector      merge Sort     float   0.000s
+    vector      merge Sort    double   0.000s
+std::array  insertion Sort    string   0.000s
+std::array  insertion Sort   integer   0.000s
+std::array  insertion Sort      long   0.000s
+std::array  insertion Sort     float   0.000s
+std::array  insertion Sort    double   0.000s
+std::array  selection Sort    string   0.000s
+std::array  selection Sort   integer   0.000s
+std::array  selection Sort      long   0.001s
+std::array  selection Sort     float   0.000s
+std::array  selection Sort    double   0.000s
+std::array     bubble Sort    string   0.000s
+std::array     bubble Sort   integer   0.000s
+std::array     bubble Sort      long   0.000s
+std::array     bubble Sort     float   0.000s
+std::array     bubble Sort    double   0.000s
+std::array      merge Sort    string   0.000s
+std::array      merge Sort   integer   0.000s
+std::array      merge Sort      long   0.000s
+std::array      merge Sort     float   0.000s
+std::array      merge Sort    double   0.000s
+
+40筆隨機資料: 產生時間 0.000s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string   0.000s
+     array  insertion Sort   integer   0.000s
+     array  insertion Sort      long   0.000s
+     array  insertion Sort     float   0.000s
+     array  insertion Sort    double   0.000s
+     array  selection Sort    string   0.000s
+     array  selection Sort   integer   0.000s
+     array  selection Sort      long   0.000s
+     array  selection Sort     float   0.000s
+     array  selection Sort    double   0.000s
+     array     bubble Sort    string   0.000s
+     array     bubble Sort   integer   0.000s
+     array     bubble Sort      long   0.000s
+     array     bubble Sort     float   0.000s
+     array     bubble Sort    double   0.000s
+     array      merge Sort    string   0.000s
+     array      merge Sort   integer   0.000s
+     array      merge Sort      long   0.000s
+     array      merge Sort     float   0.000s
+     array      merge Sort    double   0.000s
+    vector  insertion Sort    string   0.000s
+    vector  insertion Sort   integer   0.000s
+    vector  insertion Sort      long   0.000s
+    vector  insertion Sort     float   0.000s
+    vector  insertion Sort    double   0.000s
+    vector  selection Sort    string   0.000s
+    vector  selection Sort   integer   0.000s
+    vector  selection Sort      long   0.000s
+    vector  selection Sort     float   0.000s
+    vector  selection Sort    double   0.000s
+    vector     bubble Sort    string   0.000s
+    vector     bubble Sort   integer   0.000s
+    vector     bubble Sort      long   0.000s
+    vector     bubble Sort     float   0.000s
+    vector     bubble Sort    double   0.000s
+    vector      merge Sort    string   0.001s
+    vector      merge Sort   integer   0.000s
+    vector      merge Sort      long   0.000s
+    vector      merge Sort     float   0.001s
+    vector      merge Sort    double   0.000s
+std::array  insertion Sort    string   0.000s
+std::array  insertion Sort   integer   0.000s
+std::array  insertion Sort      long   0.000s
+std::array  insertion Sort     float   0.000s
+std::array  insertion Sort    double   0.000s
+std::array  selection Sort    string   0.000s
+std::array  selection Sort   integer   0.000s
+std::array  selection Sort      long   0.000s
+std::array  selection Sort     float   0.000s
+std::array  selection Sort    double   0.000s
+std::array     bubble Sort    string   0.000s
+std::array     bubble Sort   integer   0.000s
+std::array     bubble Sort      long   0.000s
+std::array     bubble Sort     float   0.000s
+std::array     bubble Sort    double   0.000s
+std::array      merge Sort    string   0.000s
+std::array      merge Sort   integer   0.000s
+std::array      merge Sort      long   0.000s
+std::array      merge Sort     float   0.000s
+std::array      merge Sort    double   0.000s
+
+50筆隨機資料: 產生時間 0.000s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string   0.000s
+     array  insertion Sort   integer   0.000s
+     array  insertion Sort      long   0.000s
+     array  insertion Sort     float   0.000s
+     array  insertion Sort    double   0.000s
+     array  selection Sort    string   0.000s
+     array  selection Sort   integer   0.000s
+     array  selection Sort      long   0.000s
+     array  selection Sort     float   0.000s
+     array  selection Sort    double   0.000s
+     array     bubble Sort    string   0.000s
+     array     bubble Sort   integer   0.000s
+     array     bubble Sort      long   0.000s
+     array     bubble Sort     float   0.000s
+     array     bubble Sort    double   0.000s
+     array      merge Sort    string   0.000s
+     array      merge Sort   integer   0.000s
+     array      merge Sort      long   0.000s
+     array      merge Sort     float   0.000s
+     array      merge Sort    double   0.000s
+    vector  insertion Sort    string   0.000s
+    vector  insertion Sort   integer   0.000s
+    vector  insertion Sort      long   0.000s
+    vector  insertion Sort     float   0.000s
+    vector  insertion Sort    double   0.000s
+    vector  selection Sort    string   0.000s
+    vector  selection Sort   integer   0.000s
+    vector  selection Sort      long   0.000s
+    vector  selection Sort     float   0.000s
+    vector  selection Sort    double   0.000s
+    vector     bubble Sort    string   0.000s
+    vector     bubble Sort   integer   0.000s
+    vector     bubble Sort      long   0.000s
+    vector     bubble Sort     float   0.000s
+    vector     bubble Sort    double   0.000s
+    vector      merge Sort    string   0.000s
+    vector      merge Sort   integer   0.001s
+    vector      merge Sort      long   0.000s
+    vector      merge Sort     float   0.001s
+    vector      merge Sort    double   0.000s
+std::array  insertion Sort    string   0.000s
+std::array  insertion Sort   integer   0.000s
+std::array  insertion Sort      long   0.000s
+std::array  insertion Sort     float   0.000s
+std::array  insertion Sort    double   0.000s
+std::array  selection Sort    string   0.000s
+std::array  selection Sort   integer   0.000s
+std::array  selection Sort      long   0.000s
+std::array  selection Sort     float   0.000s
+std::array  selection Sort    double   0.000s
+std::array     bubble Sort    string   0.000s
+std::array     bubble Sort   integer   0.000s
+std::array     bubble Sort      long   0.000s
+std::array     bubble Sort     float   0.000s
+std::array     bubble Sort    double   0.000s
+std::array      merge Sort    string   0.000s
+std::array      merge Sort   integer   0.000s
+std::array      merge Sort      long   0.000s
+std::array      merge Sort     float   0.000s
+std::array      merge Sort    double   0.000s
+
+10萬筆隨機資料: 產生時間 0.118s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string  29.307s
+     array  insertion Sort   integer   3.753s
+     array  insertion Sort      long   3.825s
+     array  insertion Sort     float   3.733s
+     array  insertion Sort    double   3.797s
+     array  selection Sort    string  20.987s
+     array  selection Sort   integer   5.758s
+     array  selection Sort      long   5.814s
+     array  selection Sort     float   5.800s
+     array  selection Sort    double   6.039s
+     array     bubble Sort    string  92.067s
+     array     bubble Sort   integer  11.715s
+     array     bubble Sort      long  11.840s
+     array     bubble Sort     float  11.683s
+     array     bubble Sort    double  12.169s
+     array      merge Sort    string   0.194s
+     array      merge Sort   integer   2.887s
+     array      merge Sort      long   0.147s
+     array      merge Sort     float   1.070s
+     array      merge Sort    double   0.147s
+    vector  insertion Sort    string  35.199s
+    vector  insertion Sort   integer   9.609s
+    vector  insertion Sort      long   9.963s
+    vector  insertion Sort     float   9.852s
+    vector  insertion Sort    double  10.196s
+    vector  selection Sort    string  32.692s
+    vector  selection Sort   integer  17.739s
+    vector  selection Sort      long  18.240s
+    vector  selection Sort     float  17.885s
+    vector  selection Sort    double  18.323s
+    vector     bubble Sort    string 178.570s
+    vector     bubble Sort   integer  59.398s
+    vector     bubble Sort      long  60.571s
+    vector     bubble Sort     float  59.949s
+    vector     bubble Sort    double  61.314s
+    vector      merge Sort    string   0.847s
+    vector      merge Sort   integer   0.726s
+    vector      merge Sort      long   0.646s
+    vector      merge Sort     float   0.739s
+    vector      merge Sort    double   0.646s
+
+20萬筆隨機資料: 產生時間 0.226s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string 118.343s
+     array  insertion Sort   integer  15.022s
+     array  insertion Sort      long  15.314s
+     array  insertion Sort     float  14.934s
+     array  insertion Sort    double  15.102s
