@@ -363,3 +363,168 @@ std::array      merge Sort    double   0.000s
      array  insertion Sort      long  15.314s
      array  insertion Sort     float  14.934s
      array  insertion Sort    double  15.102s
+     array  selection Sort    string  84.683s
+     array  selection Sort   integer  23.056s
+     array  selection Sort      long  23.341s
+     array  selection Sort     float  23.798s
+     array  selection Sort    double  24.031s
+     array     bubble Sort    string 401.455s
+     array     bubble Sort   integer  48.002s
+     array     bubble Sort      long  48.050s
+     array     bubble Sort     float  47.897s
+     array     bubble Sort    double  49.580s
+     array      merge Sort    string   0.472s
+     array      merge Sort   integer   2.038s
+     array      merge Sort      long   0.325s
+     array      merge Sort     float   2.333s
+     array      merge Sort    double   0.335s
+    vector  insertion Sort    string 146.335s
+    vector  insertion Sort   integer  39.315s
+    vector  insertion Sort      long  40.729s
+    vector  insertion Sort     float  42.240s
+    vector  insertion Sort    double  42.160s
+    vector  selection Sort    string 149.916s
+    vector  selection Sort   integer  76.537s
+    vector  selection Sort      long 108.332s
+    vector  selection Sort     float  80.847s
+    vector  selection Sort    double  83.077s
+    vector     bubble Sort    string 787.906s
+    vector     bubble Sort   integer 246.278s
+    vector     bubble Sort      long 249.881s
+    vector     bubble Sort     float 240.492s
+    vector     bubble Sort    double 246.869s
+    vector      merge Sort    string   1.963s
+    vector      merge Sort   integer   1.476s
+    vector      merge Sort      long   1.521s
+    vector      merge Sort     float   1.502s
+    vector      merge Sort    double   1.487s
+
+30萬筆隨機資料: 產生時間 0.334s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string 267.462s
+     array  insertion Sort   integer  34.036s
+     array  insertion Sort      long  34.610s
+     array  insertion Sort     float  33.668s
+     array  insertion Sort    double  34.483s
+     array  selection Sort    string 195.079s
+     array  selection Sort   integer  52.064s
+     array  selection Sort      long  53.033s
+     array  selection Sort     float  53.809s
+     array  selection Sort    double  54.215s
+     array     bubble Sort    string 994.330s
+     array     bubble Sort   integer 135.213s
+     array     bubble Sort      long 151.235s
+     array     bubble Sort     float 141.449s
+     array     bubble Sort    double 160.484s
+     array      merge Sort    string   1.393s
+     array      merge Sort   integer   0.753s
+     array      merge Sort      long   0.757s
+     array      merge Sort     float   0.719s
+     array      merge Sort    double   0.807s
+    vector  insertion Sort    string 417.943s
+    vector  insertion Sort   integer 108.150s
+    vector  insertion Sort      long 110.394s
+    vector  insertion Sort     float 110.393s
+    vector  insertion Sort    double 113.380s
+    vector  selection Sort    string 420.526s
+    vector  selection Sort   integer 205.517s
+    vector  selection Sort      long 209.278s
+    vector  selection Sort     float 205.801s
+    vector  selection Sort    double 212.223s
+    vector     bubble Sort    string2053.168s
+    vector     bubble Sort   integer 659.006s
+    vector     bubble Sort      long 664.349s
+    vector     bubble Sort     float 660.792s
+    vector     bubble Sort    double 670.651s
+    vector      merge Sort    string   4.652s
+    vector      merge Sort   integer   3.385s
+    vector      merge Sort      long   3.423s
+    vector      merge Sort     float   3.285s
+    vector      merge Sort    double   3.400s
+
+40萬筆隨機資料: 產生時間 0.580s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string 625.768s
+     array  insertion Sort   integer  76.108s
+     array  insertion Sort      long  81.615s
+     array  insertion Sort     float  81.979s
+     array  insertion Sort    double  87.420s
+     array  selection Sort    string 519.385s
+     array  selection Sort   integer 116.437s
+     array  selection Sort      long 128.141s
+     array  selection Sort     float 122.491s
+     array  selection Sort    double 133.645s
+     array     bubble Sort    string1833.074s
+     array     bubble Sort   integer 239.734s
+     array     bubble Sort      long 270.461s
+     array     bubble Sort     float 253.861s
+     array     bubble Sort    double 283.311s
+     array      merge Sort    string   1.488s
+     array      merge Sort   integer   0.980s
+     array      merge Sort      long   1.091s
+     array      merge Sort     float   1.050s
+     array      merge Sort    double   1.170s
+    vector  insertion Sort    string 739.807s
+    vector  insertion Sort   integer 188.813s
+    vector  insertion Sort      long 195.205s
+    vector  insertion Sort     float 192.614s
+    vector  insertion Sort    double 197.831s
+    vector  selection Sort    string 734.038s
+    vector  selection Sort   integer 361.617s
+    vector  selection Sort      long 369.160s
+    vector  selection Sort     float 364.175s
+    vector  selection Sort    double 373.713s
+    vector     bubble Sort    string3577.424s
+    vector     bubble Sort   integer1157.335s
+    vector     bubble Sort      long1176.949s
+    vector     bubble Sort     float1173.612s
+    vector     bubble Sort    double1189.492s
+    vector      merge Sort    string   6.795s
+    vector      merge Sort   integer   5.703s
+    vector      merge Sort      long   5.546s
+    vector      merge Sort     float   5.604s
+    vector      merge Sort    double   5.584s
+
+50萬筆隨機資料: 產生時間 0.678s
+   資料結構       排序演算法   資料型別    時間
+     array  insertion Sort    string 979.100s
+     array  insertion Sort   integer 119.487s
+     array  insertion Sort      long 131.295s
+     array  insertion Sort     float 127.723s
+     array  insertion Sort    double 142.262s
+     array  selection Sort    string 806.417s
+     array  selection Sort   integer 183.628s
+     array  selection Sort      long 204.155s
+     array  selection Sort     float 191.561s
+     array  selection Sort    double 210.469s
+     array     bubble Sort    string2765.768s
+     array     bubble Sort   integer 376.014s
+     array     bubble Sort      long 422.119s
+     array     bubble Sort     float 396.271s
+     array     bubble Sort    double 442.972s
+     array      merge Sort    string   1.947s
+     array      merge Sort   integer   1.500s
+     array      merge Sort      long   1.622s
+     array      merge Sort     float   1.628s
+     array      merge Sort    double   1.690s
+    vector  insertion Sort    string1152.603s
+    vector  insertion Sort   integer 293.444s
+    vector  insertion Sort      long 307.874s
+    vector  insertion Sort     float 302.940s
+    vector  insertion Sort    double 311.209s
+    vector  selection Sort    string1147.650s
+    vector  selection Sort   integer 563.482s
+    vector  selection Sort      long 575.179s
+    vector  selection Sort     float 633.859s
+    vector  selection Sort    double 586.541s
+    vector     bubble Sort    string5519.868s
+    vector     bubble Sort   integer1814.834s
+    vector     bubble Sort      long1840.073s
+    vector     bubble Sort     float1841.577s
+    vector     bubble Sort    double1877.751s
+    vector      merge Sort    string  10.777s
+    vector      merge Sort   integer   8.953s
+    vector      merge Sort      long   8.893s
+    vector      merge Sort     float   8.945s
+    vector      merge Sort    double   8.877s
+
